@@ -1,0 +1,4 @@
+This is my first experinece with the handling of the git repository
+I shall be including many more lines here to learn moreI forgot to mention that it may depend on text3.txt also
+
+
